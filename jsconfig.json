@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve"
+  },
+  "vueCompilerOptions": {
+    "experimentalDisableTypeCheck": true
+  },
+  "exclude": ["node_modules", "dist"]
+}
